@@ -1,4 +1,4 @@
-nome = input("insira seu noem: ")
+nome = input("insira seu nome: ")
 data_de_nascimento = input("digite sua data de nascimento: ")
 endereço = input("insira seu endereço: ")
 
