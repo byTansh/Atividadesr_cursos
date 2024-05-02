@@ -1,4 +1,3 @@
-
 valor1 = int(input("Insira o dia de nascimento: "));
 valor2 = int(input("Insira o mês de nascimento: "));
 valor3 = int(input("Insira o ano de nascimento: "));
