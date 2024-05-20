@@ -1,4 +1,3 @@
-
 print("Bem-Vindo a Loja do Tiago Moura\n")
 
 # Cardapio de apresentação
